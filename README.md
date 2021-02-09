@@ -30,8 +30,14 @@
 
 ### ⚙️ GitHub Analytics
 
-[![Ray's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrhmn)](https://github.com/mdrhmn/github-readme-stats)
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github.com/mdrhmn/github-readme-stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=mdrhmn&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%;">
+ <img height="180em" src="https://github.com/mdrhmn/github-readme-stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=mdrhmn&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%;">
+</a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrhmn)](https://github.com/mdrhmn/github-readme-stats)
+
+
 
 
