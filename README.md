@@ -30,8 +30,4 @@
 
 ### ⚙️ GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/mdrhmn">
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdrhmn&repo=github-readme-stats)](https://github.com/mdrhmn/github-readme-stats)
-</a>
-</p>
