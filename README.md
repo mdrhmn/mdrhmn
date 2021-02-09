@@ -1,4 +1,3 @@
-<p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/sabbirmollah/sabbirmollah/master/img/deep-into-neural-network.gif"><img src="https://raw.githubusercontent.com/sabbirmollah/sabbirmollah/master/img/deep-into-neural-network.gif" alt="" style="max-width:100%;"></a></p>
 
 ### Hi there, Ray here! 👋
 
