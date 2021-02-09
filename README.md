@@ -1,10 +1,8 @@
 ### Hi there, Ray here! 👋
 
-I'm currently a **final year Software Engineering student** at **Faculty of Computer Science and Information Technology (FCSIT), Universiti Malaya** (🇲🇾).
-
 ### Facts about me:
 
-- 🎓 Final year Software Engineering student at Universiti Malaya
+- 🎓 Final year Software Engineering student at Universiti Malaya (🇲🇾)
 - 💡 I like to explore new technologies and develop software solutions and quick hacks
 - ✉️ You can shoot me an email at mdrhmn99@gmail.com! I'll try to respond as soon as I can
 - ✍️ In my free time, I pursue Blog Writing as a hobby
