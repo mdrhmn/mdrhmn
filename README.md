@@ -37,9 +37,6 @@
 
 ### 🤝🏻 Get in Touch
 
-[1]: http://www.twitter.com/carlsednaoui
-[2]: http://www.facebook.com/sednaoui
-[3]: https://plus.google.com/+CarlSednaoui
-[4]: http://carlsed.tumblr.com
-[5]: http://dribbble.com/carlsednaoui
-[6]: http://www.github.com/carlsednaoui
+<p align="center">
+<a href="https://linkedin.com/in/muhd-rahiman" rel="nofollow"><img src="https://camo.githubusercontent.com/6414fc0abe3814c82a0f5109b74542f7e02e9beaecc420b7efbbac2091e0578e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d41646974796125323056696b72616d25323053696e67682d3030373742353f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Muhd%Rahiman-0077B5?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width:100%;"></a>
+<a href="mailto:mdrhmn99@gmail.com"><img src="https://camo.githubusercontent.com/07a9687150a8d67abd09acaf37eca46374e5dd812ec057e2df140c28909678d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d617673696e676840756d6173732e6564752d4431343833363f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-mdrhmn99@gmail.com-D14836?style=flat&amp;logo=Gmail&amp;logoColor=white" style="max-width:100%;"></a>
