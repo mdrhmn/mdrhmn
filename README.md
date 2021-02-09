@@ -14,4 +14,4 @@ I'm currently a **final year Software Engineering student** at **Faculty of Comp
 ### Connect with me:
 
 
-<img src="http://resources.spacexchimp.com/images/logos/HTML5.png" width="100" height="100">
+<img src="http://resources.spacexchimp.com/images/logos/HTML5.png" width="20" height="20">
