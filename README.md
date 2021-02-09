@@ -59,7 +59,11 @@
 
 ### ⚙️ GitHub Analytics
 
-[![Ray's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrhmn&show_icons=true&theme=dark)](https://github.com/mdrhmn/github-readme-stats)
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=mdrhmn&show_icons=true&theme=dark">
+</p>
+
 
 ### 🤝🏻 Get in Touch
 
