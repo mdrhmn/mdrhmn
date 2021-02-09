@@ -38,6 +38,6 @@
 ### 🤝🏻 Get in Touch
 
 <p align="center">
-<a href="https://linkedin.com/in/muhd-rahiman" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" data-canonical-src="https://img.shields.io/badge/-Muhd%20Rahiman-0077B5?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width:100%;"></a>
-<a href="mailto:mdrhmn99@gmail.com"><img src="https://camo.githubusercontent.com/07a9687150a8d67abd09acaf37eca46374e5dd812ec057e2df140c28909678d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d617673696e676840756d6173732e6564752d4431343833363f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-mdrhmn99@gmail.com-D14836?style=flat&amp;logo=Gmail&amp;logoColor=white" style="max-width:100%;"></a>
+<a href="https://linkedin.com/in/muhd-rahiman"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:mdrhmn99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
