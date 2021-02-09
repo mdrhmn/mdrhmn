@@ -5,12 +5,13 @@ I'm currently a **final year Software Engineering student** at **Faculty of Comp
 ### Facts about me:
 
 - 🔭 Busy with FYP
-- 👨‍💻 Road to full stack developer
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🏃🏻‍♂️ Road to full stack developer
+- 👨🏻‍💻 Soon-to-be Dell Technologies' IT Software Engineer
+- 💬 Speaks Python (Django), JavaScript (React), HTML, CSS, PHP, Java
+- 💻 Uses Visual Studio Code
+- ⚡ Fun fact: I'm a workaholic
 
-**Languages**: Python, JavaScript, 
+### Connect with me:
+
+https://www.linkedin.com/in/muhd-rahiman/
+
