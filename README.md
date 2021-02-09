@@ -10,7 +10,7 @@
 - ✍️ In my free time, I pursue Blog Writing as a hobby
 - 💻 Currently busy with final year project (FYP)
 - 🏃🏻‍♂️ Road to full stack developer
-- 🙇🏻‍♂️Soon-to-be Dell Technologies' IT Software Engineer
+- 🙇🏻‍♂️ Soon-to-be Dell Technologies' IT Software Engineer
 - ⚡ Fun fact: I'm a workaholic
 
 ### 🛠 Tech Stack
