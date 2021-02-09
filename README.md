@@ -30,4 +30,9 @@
 
 ### ⚙️ GitHub Analytics
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdrhmn&repo=github-readme-stats)](https://github.com/mdrhmn/github-readme-stats)
+<a href="https://github.com/mdrhmn/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdrhmn&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/mdrhmn/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdrhmn&repo=convoychat" />
+</a>
