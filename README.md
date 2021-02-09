@@ -7,7 +7,7 @@ I'm currently a **final year Software Engineering student** at **Faculty of Comp
 - 🔭 Busy with FYP
 - 🏃🏻‍♂️ Road to full stack developer
 - 👨🏻‍💻 Soon-to-be Dell Technologies' IT Software Engineer
-- 💬 Speaks Python (Django), JavaScript (React), <img src="http://resources.spacexchimp.com/images/logos/HTML5.png" width="30" height="30">, CSS, PHP, Java
+- 💬 Speaks Python (Django), JavaScript (React), <img src="http://resources.spacexchimp.com/images/logos/HTML5.png" width="30" height="30">, <img src="http://resources.spacexchimp.com/images/logos/CSS3.png" width="30" height="30">, <img src="http://resources.spacexchimp.com/images/logos/PHP.png" width="30" height="30">, Java
 - 💻 Uses Visual Studio Code
 - ⚡ Fun fact: I'm a workaholic
 
