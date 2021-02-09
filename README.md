@@ -30,5 +30,8 @@
 
 ### ⚙️ GitHub Analytics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrhmn)](https://github.com/mdrhmn/github-readme-stats)
+[![Ray's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrhmn)](https://github.com/mdrhmn/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrhmn)](https://github.com/mdrhmn/github-readme-stats)
+
 
