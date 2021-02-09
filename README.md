@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 Facts about Me
 
-- 🎓 Final year Software Engineering student at Universiti Malaya (🇲🇾)
+- 🎓 Final year Software Engineering student at Universiti Malaya (🇲🇾), CGPA: 3.90/4.00 
 - 💡 I like to explore new technologies and develop software solutions and quick hacks
 - ✍️ In my free time, I pursue Blog Writing as a hobby
 - 💻 Currently busy with final year project (FYP)
@@ -30,8 +30,6 @@
 
 ### ⚙️ GitHub Analytics
 
-
 [![Ray's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrhmn)](https://github.com/mdrhmn/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrhmn)](https://github.com/mdrhmn/github-readme-stats)
 
