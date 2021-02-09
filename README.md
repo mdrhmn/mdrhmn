@@ -1,3 +1,5 @@
+<p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/sabbirmollah/sabbirmollah/master/img/deep-into-neural-network.gif"><img src="https://raw.githubusercontent.com/sabbirmollah/sabbirmollah/master/img/deep-into-neural-network.gif" alt="" style="max-width:100%;"></a></p>
+
 ### Hi there, Ray here! 👋
 
 ### 👨🏻‍💻 Facts about Me
@@ -30,6 +32,6 @@
 
 ### ⚙️ GitHub Analytics
 
-[![Ray's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrhmn)](https://github.com/mdrhmn/github-readme-stats)
+[![Ray's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrhmn&show_icons=true&theme=dark)](https://github.com/mdrhmn/github-readme-stats)
 
 
