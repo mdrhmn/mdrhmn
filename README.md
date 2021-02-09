@@ -1,6 +1,6 @@
 ### Hi there, Ray here! 👋
 
-I'm currently a **final year Software Engineering student** at **Faculty of Computer Science and Information Technology (FCSIT), Universiti Malaya**, 🇲🇾.
+I'm currently a **final year Software Engineering student** at **Faculty of Computer Science and Information Technology (FCSIT), Universiti Malaya** (🇲🇾).
 
 ### Facts about me:
 
