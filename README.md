@@ -5,7 +5,7 @@
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"><img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="max-width:100%;"></a></p>
 
-- 🎓 Final year Software Engineering student, Universiti Malaya (🇲🇾); CGPA: 3.90/4.00 
+- 🎓 Final year Software Engineering student, Universiti Malaya (🇲🇾); <br> CGPA: 3.90/4.00 
 - 💡 Like to explore new technologies and develop software solutions and quick hacks
 - ✍️ In my free time, I pursue Blog Writing as a hobby
 - 💻 Currently busy with final year project (FYP)
