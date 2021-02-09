@@ -38,7 +38,7 @@
 ### 🤝🏻 Get in Touch
 
 <p align=”center”>
-<a href=”LinkedIn profile URL”>
+<a href=https://www.linkedin.com/in/muhd-rahiman/”>
 <img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
 </p>
