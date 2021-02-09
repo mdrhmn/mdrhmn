@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 Facts about Me
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b86a9047afd5ab67de4d8d1c1ce6293db7900b997bb10cfdeec7046e7f035fe3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"><img align="right" width="375" alt="GIF" src="https://camo.githubusercontent.com/b86a9047afd5ab67de4d8d1c1ce6293db7900b997bb10cfdeec7046e7f035fe3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966" data-canonical-src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"><img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="max-width:100%;"></a></p>
 
 - 🎓 Final year Software Engineering student, Universiti Malaya (🇲🇾); CGPA: 3.90/4.00 
 - 💡 Like to explore new technologies and develop software solutions and quick hacks
@@ -37,7 +37,9 @@
 
 ### 🤝🏻 Get in Touch
 
-<p align="center">
-<a href="https://www.linkedin.com/in/muhd-rahiman/" rel="nofollow"><img src="https://camo.githubusercontent.com/6414fc0abe3814c82a0f5109b74542f7e02e9beaecc420b7efbbac2091e0578e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d41646974796125323056696b72616d25323053696e67682d3030373742353f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width:100%;"></a>
-<a href="mailto:mdrhmn99@gmail.com"><img src="https://camo.githubusercontent.com/07a9687150a8d67abd09acaf37eca46374e5dd812ec057e2df140c28909678d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d617673696e676840756d6173732e6564752d4431343833363f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&amp;logo=Gmail&amp;logoColor=white" style="max-width:100%;"></a>
-</p>
+[1]: http://www.twitter.com/carlsednaoui
+[2]: http://www.facebook.com/sednaoui
+[3]: https://plus.google.com/+CarlSednaoui
+[4]: http://carlsed.tumblr.com
+[5]: http://dribbble.com/carlsednaoui
+[6]: http://www.github.com/carlsednaoui
