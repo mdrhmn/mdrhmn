@@ -39,6 +39,6 @@
 
 <p align=”center”>
 <a href=https://www.linkedin.com/in/muhd-rahiman/”>
-<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+<img src=”https://img.shields.io/badge/LinkedIn-LinkedIn-blue">
 </a>
 </p>
