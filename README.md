@@ -10,3 +10,7 @@
 - 🏃🏻‍♂️ Road to full stack developer
 - 👨🏻‍💻 Soon-to-be Dell Technologies' IT Software Engineer
 - ⚡ Fun fact: I'm a workaholic
+
+### Language Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrhmn&layout=compact)](https://github.com/mdrhmn/github-readme-stats)
