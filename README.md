@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hi there, Ray here! 👋
 
-<!--
-**mdrhmn/mdrhmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a **final year Software Engineering student** at **Faculty of Computer Science and Information Technology (FCSIT), University of Malaya**, 🇲🇾.
 
-Here are some ideas to get you started:
+### Facts about me:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
