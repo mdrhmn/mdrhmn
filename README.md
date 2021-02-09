@@ -37,11 +37,8 @@
 
 ### 🤝🏻 Get in Touch
 
-<p>
-<a href="https://dev.to/mdrhmn"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
-  <p align=”center”>
+<p align=”center”>
 <a href=”LinkedIn profile URL”>
 <img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
-</p>
 </p>
