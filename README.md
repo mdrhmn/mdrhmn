@@ -10,7 +10,7 @@
 - 💡 Like to explore new technologies and develop software solutions and quick hacks
 - ✍️ In my free time, I pursue Blog Writing as a hobby
 - 💻 Currently busy with final year project (FYP)
-- 🚀 Road to full stack developer
+- 🚀 Road to full-stack developer
 - 🏆 Grand Prize winner of Dell Technologies' Virtual Hack2Hire 2021
 - 🙇🏻‍♂️ Soon-to-be Dell Technologies' IT Software Engineer (Feb 2022)
 - ⚡ Fun fact: I'm a workaholic
