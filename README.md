@@ -3,6 +3,8 @@
 
 [![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fmdrhmn&label=Visitors&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmdrhmn)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 ### 👨🏻‍💻 Facts about Me
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"><img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="max-width:100%;"></a></p>
@@ -85,7 +87,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=mdrhmn&show_icons=true&theme=react">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrhmn&layout=compact&theme=react&langs_count=8">
 </p>
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mdrhmn&theme=dark)
 
 ### 🤝🏻 Get in Touch
 
