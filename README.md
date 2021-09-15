@@ -84,7 +84,7 @@
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=mdrhmn&show_icons=true&theme=react">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrhmn&layout=compact&theme=react&langs_count=8">
-<img src="ttps://github-readme-streak-stats.herokuapp.com/?user={mdrhmn}">
+<img src="ttps://github-readme-streak-stats.herokuapp.com/?user=mdrhmn">
 </p>
 
 
