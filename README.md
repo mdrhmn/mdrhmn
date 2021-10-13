@@ -10,7 +10,7 @@
 - 🎓 Final year Software Engineering student, Universiti Malaya (🇲🇾)
 - 💡 Like to explore new technologies and develop software solutions and quick hacks
 - ✍️ In my free time, I pursue Blog Writing as a hobby
-- 💻 Currently busy with final year project (FYP) titled: Arduino-based Smart Watch for Mental Health Early Warning System
+- 💻 Currently busy with final year project (FYP) titled: Arduino-based Smart Watch for Early Anticipatory Anxiety Notification System
 - 🚀 Road to full-stack developer
 - 🏆 Grand Prize winner of Dell Technologies' Virtual Hack2Hire 2021
 - 🙇🏻‍♂️ Incoming Dell Technologies' IT Software Engineer (March 2022)
