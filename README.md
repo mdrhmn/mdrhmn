@@ -8,7 +8,7 @@
 <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"><img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="max-width:100%;"></a></p>
 
 - 🎓 Final year Software Engineering student, Universiti Malaya (🇲🇾)
-- 💡 Like to explore new technologies and develop software solutions and quick hacks
+- 💡 Like to explore new technologies and develop software solutions
 - ✍️ In my free time, I pursue Blog Writing as a hobby
 - 💻 Currently busy with final year project (FYP) titled: Arduino-based Smart Watch for Early Anticipatory Anxiety Notification System
 - 🚀 Road to full-stack developer
