@@ -13,6 +13,7 @@
 - 💻 Currently busy with final year project (FYP) titled: Arduino-based Smart Watch for Early Anticipatory Anxiety Notification System
 - 🚀 Road to full-stack developer
 - 🏆 Grand Prize winner of Dell Technologies' Virtual Hack2Hire 2021
+- 🏆 Champion (IET Innovation Award) track and 2nd Runner-Up (Young Innovator Award) for IEEE FYP Competition 2021
 - 🙇🏻‍♂️ Incoming Dell Technologies' Software Engineer (March 2022)
 - ⚡ Fun fact: I'm a workaholic
 
