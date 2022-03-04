@@ -7,15 +7,14 @@
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"><img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="max-width:100%;"></a></p>
 
-- 🎓 Final year Software Engineering student, Universiti Malaya (🇲🇾)
+- 🎓 First-class Software Engineering graduate from Universiti Malaya (🇲🇾)
+- 🙇🏻‍♂️ Software Engineer at Dell Technologies based in Cyberjaya
 - 💡 Like to explore new technologies and develop software solutions
 - ✍️ In my free time, I pursue Blog Writing as a hobby
 - 💻 Completed Final year project (FYP) titled 'Fitweet: Arduino-based Smart Watch for Early Anticipatory Anxiety Notification System'
-- 🚀 Road to full-stack developer
 - 🏆 Grand Prize winner of Dell Technologies' Virtual Hack2Hire 2021
 - 🏆 Champion (IET Innovation Award) track and 2nd Runner-Up (Young Innovator Award) for IEEE FYP Competition 2021
 - 🏆 Gold Medal Winner (Young Ideation Category) for International Digital Innovation in Wellness (DInoWEx2021): Enhancing Quality of Life through Technology
-- 🙇🏻‍♂️ Incoming Dell Technologies' Software Engineer (March 2022)
 - ⚡ Fun fact: I'm a workaholic
 
 ### 🛠 Tech Stack
