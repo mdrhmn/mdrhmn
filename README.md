@@ -90,6 +90,9 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mdrhmn&theme=dark)](https://git.io/streak-stats)
 
+### ✍️ Random Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 ### 🤝🏻 Get in Touch
 
 <p>
