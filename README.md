@@ -15,6 +15,7 @@
 - 🏆 Grand Prize winner (tied) of Dell Technologies' Virtual Hack2Hire (Feb 2021)
 - 🏆 Champion (IET Innovation Award) track and 2nd Runner-Up (Young Innovator Award) for IEEE FYP Competition 2021
 - 🏆 Gold Medal Winner (Young Ideation Category) for International Digital Innovation in Wellness (DInoWEx2021): Enhancing Quality of Life through Technology
+- 🏅 Top 15 Finalist for RHB Get Your Hack On 2023: ASEAN Edition
 - ⚡ Fun fact: I'm a (recovering) workaholic
 
 ### 🛠 Tech Stack
