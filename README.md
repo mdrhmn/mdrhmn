@@ -10,13 +10,12 @@
 - 🎓 First-class Software Engineering graduate from Universiti Malaya (🇲🇾)
 - 🙇🏻‍♂️ Software Engineer at Dell Technologies based in Cyberjaya
 - 💡 Like to explore new technologies and develop software solutions
-- ✍️ In my free time, I pursue Blog Writing as a hobby
+- ✍️ In my free time, I pursue blog writing as a hobby
 - 💻 Completed Final Year Project (FYP) titled 'Fitweet: Arduino-based Smart Watch for Early Anticipatory Anxiety Notification System'
 - 🏆 Grand Prize winner (tied) of Dell Technologies' Virtual Hack2Hire (Feb 2021)
 - 🏆 Champion (IET Innovation Award) track and 2nd Runner-Up (Young Innovator Award) for IEEE FYP Competition 2021
 - 🏆 Gold Medal Winner (Young Ideation Category) for International Digital Innovation in Wellness (DInoWEx2021): Enhancing Quality of Life through Technology
 - 🏅 Top 10 Finalist and Best Presenter at the Grand Finals for RHB Get Your Hack On 2023 Virtual Hackathon: ASEAN Edition
-- ⚡ Fun fact: I'm a (recovering) workaholic
 
 ### 🛠 Tech Stack
 
